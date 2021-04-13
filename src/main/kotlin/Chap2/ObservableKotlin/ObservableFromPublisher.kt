@@ -1,4 +1,4 @@
-package Chap2
+package Chap2.ObservableKotlin
 
 import io.reactivex.rxjava3.core.Observable
 import org.reactivestreams.Subscriber

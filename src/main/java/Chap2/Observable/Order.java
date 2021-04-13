@@ -1,4 +1,4 @@
-package Chap2;
+package Chap2.Observable;
 
 public class Order {
 

@@ -1,8 +1,7 @@
-package Chap2;
+package Chap2.Observable;
 
 import io.reactivex.rxjava3.core.Observable;
 import io.reactivex.rxjava3.disposables.Disposable;
-import org.omg.PortableInterceptor.DISCARDING;
 
 public class ObservableNotifications {
 
