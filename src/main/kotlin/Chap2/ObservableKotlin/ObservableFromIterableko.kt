@@ -1,5 +1,6 @@
 package Chap2.ObservableKotlin
 
+import Chap2.Observable.Order
 import io.reactivex.rxjava3.core.Observable
 import java.util.concurrent.ArrayBlockingQueue
 import java.util.concurrent.BlockingQueue
